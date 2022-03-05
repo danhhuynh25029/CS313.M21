@@ -24,7 +24,8 @@
 |:--- | :-------|:----------|:------------|:------------|:-------------| 
 |1|19521322|Huỳnh Ngọc Công Danh|19521322@gm.uit.edu.vn|[<img alt="" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>][0]|[<img alt="" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][3]|
 |2|19522524|Nguyễn Phú Vinh| 19522524@gm.uit.edu.vn| [<img alt="" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>][1]|[<img alt="" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][4]|
-|3|1952035|Cao Đức Trí|19520305@gm.uit.edu.vn|[<img alt="" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>][2]|[<img alt="" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][5]|
+|3|19520305|Cao Đức Trí|19520305@gm.uit.edu.vn|[<img alt="" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>][2]|[<img alt="" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][5]|
+|4|16520405|Nguyễn Trần Trung Hiếu|16520405@gm.uit.edu.vn|[<img alt="" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>][6]|[<img alt="" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][7]|
 
 [0]:https://github.com/danhhuynh25029
 [2]:https://github.com/cdtri1619
@@ -32,5 +33,6 @@
 [3]:https://www.facebook.com/danh250/
 [4]:https://www.facebook.com/phuvinh0107
 [5]:https://www.facebook.com/cdt2357
-
+[6]:https://github.com/danhhuynh25029/CS313.M21
+[7]:https://www.facebook.com/hieuuit
 * Đồ án : blockchain
